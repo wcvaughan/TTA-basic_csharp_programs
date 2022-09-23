@@ -1,0 +1,6 @@
+C:\Users\chris\OneDrive\Desktop\Basic_C#_Programs\AcmeAccountingSystems1\bin\Debug\AcmeAccountingSystems1.exe.config
+C:\Users\chris\OneDrive\Desktop\Basic_C#_Programs\AcmeAccountingSystems1\bin\Debug\AcmeAccountingSystems1.exe
+C:\Users\chris\OneDrive\Desktop\Basic_C#_Programs\AcmeAccountingSystems1\bin\Debug\AcmeAccountingSystems1.pdb
+C:\Users\chris\OneDrive\Desktop\Basic_C#_Programs\AcmeAccountingSystems1\obj\Debug\AcmeAccountingSystems1.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Basic_C#_Programs\AcmeAccountingSystems1\obj\Debug\AcmeAccountingSystems1.exe
+C:\Users\chris\OneDrive\Desktop\Basic_C#_Programs\AcmeAccountingSystems1\obj\Debug\AcmeAccountingSystems1.pdb
