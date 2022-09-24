@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\VariablesandDataTypes\bin\Debug\VariablesandDataTypes.exe.config
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\VariablesandDataTypes\bin\Debug\VariablesandDataTypes.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\VariablesandDataTypes\bin\Debug\VariablesandDataTypes.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.pdb
