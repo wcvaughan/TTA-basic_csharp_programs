@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MathApplicationStep185\bin\Debug\MathApplicationStep185.exe.config
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MathApplicationStep185\bin\Debug\MathApplicationStep185.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MathApplicationStep185\bin\Debug\MathApplicationStep185.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MathApplicationStep185\obj\Debug\MathApplicationStep185.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MathApplicationStep185\obj\Debug\MathApplicationStep185.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MathApplicationStep185\obj\Debug\MathApplicationStep185.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MathApplicationStep185\obj\Debug\MathApplicationStep185.pdb
