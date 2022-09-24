@@ -1,0 +1,6 @@
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\bin\Debug\DAILY_REPORT_ASSIGNMENT.exe.config
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\bin\Debug\DAILY_REPORT_ASSIGNMENT.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\bin\Debug\DAILY_REPORT_ASSIGNMENT.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\obj\Debug\DAILY_REPORT_ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\obj\Debug\DAILY_REPORT_ASSIGNMENT.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\DAILY_REPORT_ASSIGNMENT\obj\Debug\DAILY_REPORT_ASSIGNMENT.pdb
