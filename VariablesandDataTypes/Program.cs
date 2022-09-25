@@ -44,11 +44,28 @@ namespace VariablesandDataTypes
 
             bool isRaining = true;
             string rainingStatus = Convert.ToString(isRaining);
-
-
-
             Console.WriteLine(questionMark);
             Console.ReadLine();
+
+            int A = 10;
+            int B = 45;
+            //Add two numbers and display the output in the console.
+            Console.WriteLine(A+B);
+            //Subtract two numbers and display the output in the console.
+            Console.WriteLine(A+B);
+            //Multiply two numbers and display the output in the console.
+            Console.WriteLine(A*B);
+            //Divide two numbers and display the output in the console.
+            Console.WriteLine(A/B);
+            Console.WriteLine(A%B);
+            Console.ReadLine();
+
+            string quoteOne = "This is the first part of the sentence ";
+            string quoteTwo = "and this is the rest of it";
+            string fullQuote = quoteOne + quoteTwo;
+            Console.WriteLine(fullQuote);
+            Console.ReadLine();
+
         }
     }
 }

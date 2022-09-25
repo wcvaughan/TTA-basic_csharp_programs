@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Anonymous Income Report\bin\Debug\Anonymous Income Report.exe.config
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Anonymous Income Report\bin\Debug\Anonymous Income Report.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Anonymous Income Report\bin\Debug\Anonymous Income Report.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Anonymous Income Report\obj\Debug\Anonymous Income Report.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Anonymous Income Report\obj\Debug\Anonymous Income Report.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Anonymous Income Report\obj\Debug\Anonymous Income Report.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Anonymous Income Report\obj\Debug\Anonymous Income Report.pdb
