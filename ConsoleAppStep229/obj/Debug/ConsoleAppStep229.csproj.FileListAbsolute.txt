@@ -1,0 +1,6 @@
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\ConsoleAppStep229\bin\Debug\ConsoleAppStep229.exe.config
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\ConsoleAppStep229\bin\Debug\ConsoleAppStep229.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\ConsoleAppStep229\bin\Debug\ConsoleAppStep229.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\ConsoleAppStep229\obj\Debug\ConsoleAppStep229.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\ConsoleAppStep229\obj\Debug\ConsoleAppStep229.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\ConsoleAppStep229\obj\Debug\ConsoleAppStep229.pdb

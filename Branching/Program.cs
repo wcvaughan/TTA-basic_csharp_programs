@@ -32,7 +32,21 @@ namespace ShippingQuote
             //Next, multiply the three dimensions(height, width, &length) together, and multiply the product by the weight.Finally, divide the outcome by 100.
             int finalOutcome = ((packageWidth * packageHeight * packageLength) * packageWeight) / 100;
             //The result of that calculation is the quote.
-
+            switch (finalOutcome)
+            {
+                case 49:
+                    Console.WriteLine("You're gonna be paying full price, just $1 more and you'd be eligible for discounts!");
+                    break;
+                case 50:
+                    Console.WriteLine("Discounts! You get a discount, EVERYBODY GETS A DISCOUNT!!!!");
+                    break;
+                case 10000:
+                    Console.WriteLine("Are you shipping a pyramid?!");
+                    break;
+                default:
+                    Console.WriteLine("Alright alright alright");
+                    break;
+            }
             //Display the quote to the user as a dollar amount.
             Console.WriteLine("Your final quote is $" + finalOutcome);
             Console.ReadLine();

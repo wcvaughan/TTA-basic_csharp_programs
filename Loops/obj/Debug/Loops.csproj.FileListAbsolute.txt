@@ -1,0 +1,6 @@
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Loops\bin\Debug\Loops.exe.config
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Loops\bin\Debug\Loops.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Loops\bin\Debug\Loops.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Loops\obj\Debug\Loops.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Loops\obj\Debug\Loops.pdb
