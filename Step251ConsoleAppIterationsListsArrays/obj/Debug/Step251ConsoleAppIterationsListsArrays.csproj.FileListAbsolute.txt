@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Step251ConsoleAppIterationsListsArrays\bin\Debug\Step251ConsoleAppIterationsListsArrays.exe.config
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Step251ConsoleAppIterationsListsArrays\bin\Debug\Step251ConsoleAppIterationsListsArrays.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Step251ConsoleAppIterationsListsArrays\bin\Debug\Step251ConsoleAppIterationsListsArrays.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Step251ConsoleAppIterationsListsArrays\obj\Debug\Step251ConsoleAppIterationsListsArrays.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Step251ConsoleAppIterationsListsArrays\obj\Debug\Step251ConsoleAppIterationsListsArrays.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Step251ConsoleAppIterationsListsArrays\obj\Debug\Step251ConsoleAppIterationsListsArrays.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\Step251ConsoleAppIterationsListsArrays\obj\Debug\Step251ConsoleAppIterationsListsArrays.pdb
