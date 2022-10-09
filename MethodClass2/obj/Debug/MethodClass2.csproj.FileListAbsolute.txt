@@ -1,0 +1,2 @@
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MethodClass2\obj\Debug\MethodClass2.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MethodClass2\obj\Debug\MethodClass2.csproj.CoreCompileInputs.cache
