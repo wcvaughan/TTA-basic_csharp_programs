@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MethodsClassesStep285\bin\Debug\MethodsClassesStep285.exe.config
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MethodsClassesStep285\bin\Debug\MethodsClassesStep285.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MethodsClassesStep285\bin\Debug\MethodsClassesStep285.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MethodsClassesStep285\obj\Debug\MethodsClassesStep285.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MethodsClassesStep285\obj\Debug\MethodsClassesStep285.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MethodsClassesStep285\obj\Debug\MethodsClassesStep285.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\MethodsClassesStep285\obj\Debug\MethodsClassesStep285.pdb
