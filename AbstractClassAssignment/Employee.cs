@@ -7,9 +7,27 @@ using System.Threading.Tasks;
 namespace AbstractClassAssignment
 {
     //Create another class called Employee and have it inherit from the Person class.
+    //Create an Employee class with Id, FirstName and LastName properties. 
 
     public class Employee : Person, IQuittable
     {
+        public int Id { get; set; }
+        //In the Employee class, overload the “==” operator so it checks if two Employee objects are equal by comparing their Id property.
+        //Remember that comparison operators must be overloaded in pairs.
+
+        public static Employee operator ==(Employee employee, Employee employee1)
+        {
+            bool isSame = employee.Id == employee1.Id;
+            Console.WriteLine("Duplicate found");
+            return employee;
+        }
+        public static Employee operator!= (Employee employee, Employee employee1)
+        {
+            bool isSame = employee.Id != employee1.Id;
+            Console.WriteLine("Not a duplicate");
+            return employee;
+        }
+
         //Implement the SayName() method inside of the Employee class.
         public override void SayName()
         {
