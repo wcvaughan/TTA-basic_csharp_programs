@@ -4,3 +4,4 @@ C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_
 C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
 C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
 C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
