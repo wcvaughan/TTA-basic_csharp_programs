@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+C:\Users\chris\OneDrive\Documents\GitHub\TTA_Basic_C#_Programs\TTA-basic_csharp_programs\LambdaAssignment\obj\Debug\LambdaAssignment.pdb
